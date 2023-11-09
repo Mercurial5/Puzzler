@@ -1,0 +1,3 @@
+START_MESSAGE = 'Hi! This bot has number of puzzles that you can solve. Send /math to solve Math puzzles.'
+CORRECT_MATH_ANSWER = 'That is correct! To solve another math question, send /math'
+INCORRECT_ANSWER = 'That was not quite correct... Try to find the correct answer.'
